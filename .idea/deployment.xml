@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="local container (51e82e29-81a9-45d8-95e9-90402647ca01)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.pWQBHcywls" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-local-container" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-local-container" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-system" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
